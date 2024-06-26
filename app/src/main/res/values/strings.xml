@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="default_web_client_id">YOUR_CLIENT_ID_HERE</string>
+</resources>
